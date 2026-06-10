@@ -1,4 +1,6 @@
 # Demo-Repository
 This is my first Git Repository
 <br>
-Auther - Shubhangi Kale (Demo)
+Author - Shubhangi Kale
+<br>
+Purpose - Learning Git Hub
